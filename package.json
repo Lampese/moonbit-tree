@@ -1,0 +1,26 @@
+{
+  "name": "moonbit-tree",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+		"moonbit-tree": "index.js"
+	},
+  "description": "Visual Dependency Tree for Moonbit Projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lampese/moonbit-tree.git"
+  },
+  "author": "Lampese",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lampese/moonbit-tree/issues"
+  },
+  "homepage": "https://github.com/Lampese/moonbit-tree#readme",
+  "dependencies": {
+    "commander": "^12.0.0"
+  }
+}
