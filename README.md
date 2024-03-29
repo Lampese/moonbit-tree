@@ -36,7 +36,6 @@ num --> int64
 assertion --> int64
 assertion --> list
 array --> list
-vec --> list
 assertion --> map
 list --> map
 vec --> map
@@ -57,5 +56,4 @@ assertion --> strconv
 assertion --> tuple
 assertion --> vec
 string --> vec
-list --> vec
 ```
